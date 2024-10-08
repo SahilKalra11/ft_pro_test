@@ -1,4 +1,5 @@
 Financial Times Technical Test Documentation
+
 Overview
 This documentation outlines the implementation of a web application developed using React and Handlebars, based on the requirements of the Financial Times Technical Test. The application retrieves data from a provided API (“https://markets-data-api-proxy.ft.com/research/webservices/securities/v1/quotes”) and adheres to specified design guidelines.
 Project Structure
