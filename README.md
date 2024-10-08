@@ -1,48 +1,9 @@
 # Financial Times Technical Test
 
-The test is in two parts. Please create a branch to do your work and tell us when you have finished your work so we can review your branch. Do both exercises in the branch.
-
-We expect that this exercise should take about 90 minutes. This is a guideline, not a fixed limit. Don’t feel rushed to complete the exercise, but work on it as and when you have time.
-
-You can either do both exercises at home, or pick one to send in and do the other as a pairing exercise with us during the technical interview.
-
-We do not have a preference in terms of the way you choose to complete the technical test and we do not factor your choice into our hiring decision. We offer the choice because some candidates find pairing exercise interviews prohibitively nerve-wracking and we want you to be able to show us thought-process for writing software, not how well you cope under extreme pressure.
-
-You can build the templates in either JSX or Handlebars, depending on your preference.
-
-## OPTION 1 - AT HOME:
-Please do both exercises before sending in. Remember, you don’t have to do it all in one sitting.
-
-## OPTION 2 - PART AT HOME, PART PAIRING:
-Please do one of the exercises before sending in, and we will do the other exercise as a pairing exercise.
-
-For the at home section, we recommend picking the exercise that plays to your strengths and is most relevant to the role you are interested in (e.g. if you are applying for a role where the job description states that most of the work is client-side, build the UI).
-
 ## Exercise: Retrieve the data
 Use the [securities quotes api](#using-our-securities-quotes-api) (also known as stock prices) to get the data for the items below and output the results in plain HTML.
 
 ## Exercise: Build the UI
-Build the component in the design below. If you are doing this one at home and the other part pairing in the office, you can use this [sample JSON](test/fixtures/securities-response.json).
-
-![Screenshot of an example securities data component](https://user-images.githubusercontent.com/51677/67555386-b6c5fc80-f700-11e9-86bd-55e975be0441.png)
-
-
-The project must have:
-- tests. We don't expect comprehensive tests, we would like to see what you can do
-- documentation. We don't expect comprehensive documentation, we would like to see what you think is important to document
-- error handling
-
-The project could:
-- Be responsive
-- Be accessible
-- Not be reliant on client-side frameworks (i.e. Angular, React) or libraries like jQuery
-- Built using Javascript and node.js
-- Use Origami Components
-- Be progressively enhanced
-- Have a similar look and feel as ft.com
-- Perform well over 3G networks
-
-Please specify in your submission which one of these points you have addressed and how (e.g. in the `README` of your submission repo) along with documentation, testing, or any other aspects you consider relevant.
 
 ## Prerequisites
 
